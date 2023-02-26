@@ -10,7 +10,7 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm i zip@latest && yarn
+RUN npm install -g npm@9.5.1
 
 COPY . .
 
