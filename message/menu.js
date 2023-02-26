@@ -808,6 +808,10 @@ return `
 ┗━━━━━━━━━━━━━━━━━━⬣
 
 ┏━━⬣  Thanks To  友
+┃ 🔥 Ganz 😎
+┃ 🔥 Rivanda
+┃ 🔥 Wily Kun
+┃ 🔥 Elaina
 ┃ 🔥 The Zyrenn 
 ┃ 🔥 Hw Mods Wa
 ┃ 🔥 Kizyy Kanaeru
